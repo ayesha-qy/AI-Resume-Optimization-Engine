@@ -34,7 +34,7 @@ sentence-transformers==2.2.2
 nltk==3.8.1
 ```
 
-## Step 3: Create README.md
+## Breakdown
 
 ```markdown
 # 🧠 Advanced AI Resume Optimizer
@@ -67,19 +67,13 @@ An intelligent resume optimization system powered by multiple transformer models
 
 ## 🏃‍♀️ Quick Start
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/ai-resume-optimizer.git
-cd ai-resume-optimizer
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
 
-3. Run the application:
+2. Run the application:
 ```bash
 streamlit run app2.py
 ```
