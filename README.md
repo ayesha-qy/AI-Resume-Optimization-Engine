@@ -8,6 +8,7 @@ ai-resume-optimizer/
 ├── app2.py                 # Your main application file
 ├── requirements.txt        # Dependencies list
 ├── README.md              # Project documentation
+```
 
 ## Step 2: Create requirements.txt
 
