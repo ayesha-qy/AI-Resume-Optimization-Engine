@@ -29,7 +29,7 @@ nltk==3.8.1
 
 ## Breakdown
 
-```markdown
+
 # 🧠 Advanced AI Resume Optimizer
 
 An intelligent resume optimization system powered by multiple transformer models for maximum ATS compatibility and job matching accuracy.
@@ -69,7 +69,7 @@ python -m spacy download en_core_web_sm
 2. Run the application:
 ```bash
 streamlit run app2.py
-```
+
 
 ## 📈 How It Works
 
